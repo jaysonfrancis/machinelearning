@@ -24,7 +24,6 @@ _Machine Learning Classifiers Using Scikit-learn_
 ---
 
 
-### Other Resources
+### Other Notes
 
-- Marchine Learning, Stanford University (Andrew Ng) - Using octave
-[https://github.com/jaysonfrancis/coursera/tree/master/machinelearning-standford](https://github.com/jaysonfrancis/coursera/tree/master/machinelearning-standford)
+- [Machine Learning, Stanford University (Andrew Ng) - Using octave](https://github.com/jaysonfrancis/coursera/tree/master/machinelearning-stanford)
