@@ -20,7 +20,7 @@ _Machine Learning Classifiers Using Scikit-learn_
 - [Perceptron with sklearn](src/perceptron-sklearn.ipynb) - Demonstrating the iris dataset with perceptron algorithm in sklearn ml kit
 - [Logistic Regression with sklearn](src/logisticregression-sklearn.ipynb) - Working with logistic regression in sklearn & visualizing regularization
 - [Support Vector Machines (SVM) with sklearn](src/supportvectormachines.ipynb)  
-- Decision tree learning (Coming soon))
+- Decision tree learning (Coming soon)
 
 ---
 
