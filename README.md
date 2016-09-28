@@ -25,6 +25,10 @@ _Machine Learning Classifiers Using Scikit-learn_
 
 ---
 
+_Building good datasets_
+- [Data Preprocessing 1](src/datapreprocessing-part1.ipynb) - Handling missing, nominal and ordinal values
+- [Data Preprocessing 2](src/datapreprocessing-part2.ipynb) - Dataset partitioning, feature scaling & selecting (Coming soon)
+
 
 ### Other Notes
 
