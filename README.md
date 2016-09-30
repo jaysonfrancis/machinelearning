@@ -27,7 +27,18 @@ _Machine Learning Classifiers Using Scikit-learn_
 
 _Building good datasets_
 - [Data Preprocessing 1](src/datapreprocessing-part1.ipynb) - Handling missing, nominal and ordinal values
-- [Data Preprocessing 2](src/datapreprocessing-part2.ipynb) - Dataset partitioning, feature scaling & selecting (Coming soon)
+- [Data Preprocessing 2](src/datapreprocessing-part2.ipynb) - Dataset partitioning, feature scaling & selecting (Coming soon)  
+- [Data Preprocessing 3](src/datapreprocessing-part3.ipynb) - Sequential feature selection (SBS), Feature importance with Random Forests  
+
+---
+
+_Compressing Data via Dimensionality Reduction_
+- Coming Soon
+
+---
+
+### Readings
+- [Python Machine Learning, Sebastian Raschka](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0#navbar)
 
 
 ### Other Notes
