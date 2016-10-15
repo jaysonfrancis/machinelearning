@@ -34,7 +34,7 @@ _Building good datasets_
 
 _Compressing Data via Dimensionality Reduction_
 - [Principal component anaysis (PCA)](src/pca.ipynb) - Building pca, and using pca in sklearn
-- [Linear discriminant analysis](src/lda.ipynb) (Coming soon)
+- [Linear discriminant analysis (LDA)](src/lda.ipynb) (Coming soon)
 
 ---
 
