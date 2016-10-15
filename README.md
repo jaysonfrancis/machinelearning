@@ -1,6 +1,6 @@
 ## My Machine Learning Toolkit
 
-This repository contains various hands-on examples and notes around the development and implementations of various machine learning techniques and architectures.
+This repository contains python examples and notes around the development and implementations of various machine learning algorithms & data preparation techniques.
 
 
 ![pic](img/machinelearning101.png)
@@ -39,7 +39,8 @@ _Compressing Data via Dimensionality Reduction_
 ---
 
 ### Readings
-- [Python Machine Learning, Sebastian Raschka](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0#navbar)
+- [Python Machine Learning, Sebastian Raschka](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0#navbar)  
+- [Applied Predictive Analytics, Dean Abott](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
 
 
 ### Other Notes
