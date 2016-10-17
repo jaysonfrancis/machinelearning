@@ -33,10 +33,17 @@ _Building good datasets_
 ---
 
 _Compressing Data via Dimensionality Reduction_
-- [Principal component anaysis (PCA)](src/pca.ipynb) - Building pca, and using pca in sklearn
-- [Linear discriminant analysis (LDA)](src/lda.ipynb) (Coming soon)
+- [Principal component anaysis (PCA)](src/pca.ipynb) - Unsupervised data compression 
+- [Linear discriminant analysis (LDA)](src/lda.ipynb) - Supervised dimensionality reduction
+- [Kernel Principal component analysis (K-PCA)](src/kernel-pca.ipynb) - Nonlinear dimensionality
 
 ---
+
+_Model Evaluation and Hyper-parameter Tuning_
+- [Model Evaluation 1](src/modelevaluation-part1.ipynb) - Using pipelines and cross validation techniques
+- [Model Evaluation 2](src/modelevaluation-part2.ipynb) - Coming Soon
+- Model Evaluation 3 - Coming Soon
+
 
 ### Readings
 - [Python Machine Learning, Sebastian Raschka](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0#navbar)  
