@@ -44,6 +44,7 @@ _Model Evaluation and Hyper-parameter Tuning_
 - [Model Evaluation 2](src/modelevaluation-part2.ipynb) - Coming Soon
 - Model Evaluation 3 - Coming Soon
 
+---
 
 ### Readings
 - [Python Machine Learning, Sebastian Raschka](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0#navbar)  
