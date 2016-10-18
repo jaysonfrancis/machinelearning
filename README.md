@@ -41,8 +41,8 @@ _Compressing Data via Dimensionality Reduction_
 
 _Model Evaluation and Hyper-parameter Tuning_
 - [Model Evaluation 1](src/modelevaluation-part1.ipynb) - Using pipelines and cross validation techniques
-- [Model Evaluation 2](src/modelevaluation-part2.ipynb) - Coming Soon
-- Model Evaluation 3 - Coming Soon
+- [Model Evaluation 2](src/modelevaluation-part2.ipynb) - Learning curves, grid search, nested cross-validation
+- [Model Evaluation 3](src/modelevaluation-part3.ipynb) - Coming soon - Precision, recall, F1-scores, ROC curves  
 
 ---
 
