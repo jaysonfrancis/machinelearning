@@ -37,10 +37,17 @@ _Model Evaluation and Hyper-parameter Tuning_
 
 ---
 
-### Machine Learning with Scikit-Learn
+### Additional Machine Learning with Scikit-Learn
 
 _Introduction_
-- [Scikit API Overview](scikit/Chapter 1/API Overview.ipynb) 
+- [The Classifier Interface](scikit/Chapter 1/Classification.ipynb) - LinearSVC, RandomForest, Classifier Comparison 
+- [The Regressor Interface](scikit/Chapter 1/Regression.ipynb) - Ridge, RandomForestRegressor
+- [The Transformer Interface](scikit/Chapter 1/Transformers.ipynb) - StandardScaler, PCA, Dimensionality Reduction
+- [The Cluster Interface](scikit/Chapter 1/Clustering.ipynb) - KMeans, SpectralClustering, Overview of visuals
+- The Manifold Interface - Coming Soon
+- Cross Validation - Coming soon
+- Grid Searches - Coming soon
+- [Scikit Interface Summary](scikit/Chapter 1/API Overview.ipynb) - Quick recap on scikit-learns interface  
 
 
 ---
@@ -48,7 +55,7 @@ _Introduction_
 ### Readings
 - [Python Machine Learning, Sebastian Raschka](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0#navbar)  
 - [Applied Predictive Analytics, Dean Abott](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)  
-- [Advanced Machine Learning with scikit-learn, Raul Garetta](https://www.amazon.com/Learning-scikit-learn-Machine-Python/dp/1783281936)
+- [Advanced Machine Learning with scikit-learn, Andreas Mueller](https://www.amazon.com/Advanced-Machine-Learning-scikit-learn-Training/dp/B015WPK674)
 
 ---
 
