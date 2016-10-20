@@ -6,8 +6,9 @@ This repository contains python examples and notes around the development and im
 
 ![](img/machinelearning201.png)
 
-### Python Machine Learning 
+---
 
+### Python Machine Learning 
 
 _Training Machine Learning Algorithms for Classification_
 - [Perceptron](src/perceptron.ipynb) - Step by step implementation in Python 
@@ -48,7 +49,6 @@ _Introduction_
 - Cross Validation - Coming soon
 - Grid Searches - Coming soon
 - [Scikit Interface Summary](scikit/Chapter 1/API Overview.ipynb) - Quick recap on scikit-learns interface  
-
 
 ---
 
