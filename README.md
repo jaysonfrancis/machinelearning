@@ -1,20 +1,17 @@
-## My Machine Learning Toolkit
+## Machine Learning Toolkit
 
-This repository contains python examples and notes around the development and implementations of various machine learning algorithms & data preparation techniques.
+This repository contains python examples and notes around the development and implementations of various machine learning algorithms & data preparation techniques. It is a compilation of various book notes, bootcamps & research put together for myself - and others, to make references to quick implementations easily. Please feel free to contribute to the repository! 
+
+-- Jayson
+
+![](img/machinelearning201.png)
+
+### Python Machine Learning 
 
 
-![pic](img/machinelearning101.png)
->Source: Deutsche Bank Quantitative Strategy 
-
-
-##### Hands-on examples & Markdown Notes
-
---- 
 _Training Machine Learning Algorithms for Classification_
 - [Perceptron](src/perceptron.ipynb) - Step by step implementation in Python 
 - [Adaline](src/adaline.ipynb) - Working with the basics of optimizations, stochastic/batch gradient descent
-
----
 
 _Machine Learning Classifiers Using Scikit-learn_ 
 - [Perceptron with sklearn](src/perceptron-sklearn.ipynb) - Demonstrating the iris dataset with perceptron algorithm in sklearn ml kit
@@ -23,21 +20,15 @@ _Machine Learning Classifiers Using Scikit-learn_
 - [Decision tree learning, Random Forest](src/decisiontree.ipynb) - Impurity measures, such as Gini, Entropy & Classification Error
 - [K-nearest neighbors classifier (KNN)](src/knearestneighbors.ipynb) - Visualizing the lazy learning algorithm
 
----
-
 _Building good datasets_
 - [Data Preprocessing 1](src/datapreprocessing-part1.ipynb) - Handling missing, nominal and ordinal values
 - [Data Preprocessing 2](src/datapreprocessing-part2.ipynb) - Dataset partitioning, feature scaling & selecting
 - [Data Preprocessing 3](src/datapreprocessing-part3.ipynb) - Sequential feature selection (SBS), Feature importance with Random Forests  
 
----
-
 _Compressing Data via Dimensionality Reduction_
 - [Principal component anaysis (PCA)](src/pca.ipynb) - Unsupervised data compression 
 - [Linear discriminant analysis (LDA)](src/lda.ipynb) - Supervised dimensionality reduction
 - [Kernel Principal component analysis (K-PCA)](src/kernel-pca.ipynb) - Nonlinear dimensionality
-
----
 
 _Model Evaluation and Hyper-parameter Tuning_
 - [Model Evaluation 1](src/modelevaluation-part1.ipynb) - Using pipelines and cross validation techniques
@@ -46,10 +37,20 @@ _Model Evaluation and Hyper-parameter Tuning_
 
 ---
 
+### Machine Learning with Scikit-Learn
+
+_Introduction_
+- [Scikit API Overview](scikit/Chapter 1/API Overview.ipynb) 
+
+
+---
+
 ### Readings
 - [Python Machine Learning, Sebastian Raschka](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0#navbar)  
-- [Applied Predictive Analytics, Dean Abott](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
+- [Applied Predictive Analytics, Dean Abott](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)  
+- [Advanced Machine Learning with scikit-learn, Raul Garetta](https://www.amazon.com/Learning-scikit-learn-Machine-Python/dp/1783281936)
 
+---
 
 ### Other Notes
 
