@@ -14,6 +14,9 @@ _Training Machine Learning Algorithms for Classification_
 - [Perceptron](src/perceptron.ipynb) - Step by step implementation in Python 
 - [Adaline](src/adaline.ipynb) - Working with the basics of optimizations, stochastic/batch gradient descent
 
+_Training Machine Learning Algorithms for Regression_
+- [Overview Regression](src/regression.ipynb) - Examples on linear regression, polynomial regression, random forest regressor  
+
 _Machine Learning Classifiers Using Scikit-learn_ 
 - [Perceptron with sklearn](src/perceptron-sklearn.ipynb) - Demonstrating the iris dataset with perceptron algorithm in sklearn ml kit
 - [Logistic Regression with sklearn](src/logisticregression-sklearn.ipynb) - Working with logistic regression in sklearn & visualizing regularization
