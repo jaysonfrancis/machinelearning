@@ -48,10 +48,19 @@ _Introduction_
 - [The Regressor Interface](scikit/Chapter 1/Regression.ipynb) - Ridge, RandomForestRegressor
 - [The Transformer Interface](scikit/Chapter 1/Transformers.ipynb) - StandardScaler, PCA, Dimensionality Reduction
 - [The Cluster Interface](scikit/Chapter 1/Clustering.ipynb) - KMeans, SpectralClustering, Overview of visuals
-- The Manifold Interface - Coming Soon
-- Cross Validation - Coming soon
-- Grid Searches - Coming soon
+- [The Manifold Interface](scikit/Chapter 1/Manifold.ipynb) - Unsupervised fitting with PCA, Isomap. Non-linear dimensionality reduction for use of visuals.
+- [Using Cross Validation](scikit/Chapter 1/CrossValidation.ipynb) - Splitting training/test and using cross validation to iterate scoring of classifiers
+- [Grid Searches](scikit/Chapter 1/GridSearches.ipynb) - Recommend hyper-parameters (i.e, C, kernel, gamma) to be passed when building an estimator. 
 - [Scikit Interface Summary](scikit/Chapter 1/API Overview.ipynb) - Quick recap on scikit-learns interface  
+
+
+_Model Complexity, Overfitting and Underfitting_  
+- Linear models In-Depth (Coming soon)  
+- Kernel SVMs In-Depth (Coming soon)  
+- Random Forests In-Depth (Coming soon)  
+- Learning Curves for Analyzing Model Complexity (Coming soon)  
+- Validation Curves For Analyzing Model Parameters (Coming soon)  
+- Efficient Paramter Search with EstimatorCV objects (coming soon)
 
 ---
 
