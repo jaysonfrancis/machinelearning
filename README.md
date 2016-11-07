@@ -55,7 +55,8 @@ _Introduction_
 
 
 _Model Complexity, Overfitting and Underfitting_  
-- Linear models In-Depth (Coming soon)  
+- [Model Complexity](scikit/Chapter 2/ModelComplexity.ipynb) - Overfitting, Underfitting visuals
+- [Linear models with Scikit](scikit/Chapter 2/Linearmodels.ipynb) - Linear regression, linear classification, regularization  
 - Kernel SVMs In-Depth (Coming soon)  
 - Random Forests In-Depth (Coming soon)  
 - Learning Curves for Analyzing Model Complexity (Coming soon)  
