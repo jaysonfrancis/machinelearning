@@ -57,8 +57,8 @@ _Introduction_
 _Model Complexity, Overfitting and Underfitting_  
 - [Model Complexity](scikit/Chapter 2/ModelComplexity.ipynb) - Overfitting, Underfitting visuals
 - [Linear models with Scikit](scikit/Chapter 2/Linearmodels.ipynb) - Linear regression, linear classification, regularization  
-- [Kernel SVMs with Scikit](scikit/Chapter 2/Su pportVectorMachines.ipynb) - Support vecotr machines, kernel SVMs, hyperparameters
-- Random Forests In-Depth (Coming soon)  
+- [Kernel SVMs with Scikit](scikit/Chapter 2/SupportVectorMachines.ipynb) - Support vector machines, kernel SVMs, hyperparameters
+- [Random Forests Preview](scikit/Chapter 2/TreesandForests.ipynb) - Decision tree classification, random forest classifier
 - Learning Curves for Analyzing Model Complexity (Coming soon)  
 - Validation Curves For Analyzing Model Parameters (Coming soon)  
 - Efficient Paramter Search with EstimatorCV objects (coming soon)
