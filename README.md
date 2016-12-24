@@ -25,7 +25,7 @@ _Machine Learning Classifiers Using Scikit-learn_
 - [K-nearest neighbors classifier (KNN)](src/knearestneighbors.ipynb) - Visualizing the lazy learning algorithm
 
 _Clustering Analaysis_  
-- [Clustering Analysis Part 1](src/clusteirng-part1.ipynb) - K-means/++, Elbow method, Silhouette plots  
+- [Clustering Analysis Part 1](src/clustering-part1.ipynb) - K-means/++, Elbow method, Silhouette plots  
 - Clustering Analysis Part 2 - (Coming Soon &#x1F534;) - Hierarchical trees, Distance matrix, Dendrograms  
 
 _Building good datasets_
