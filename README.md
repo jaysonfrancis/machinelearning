@@ -24,6 +24,10 @@ _Machine Learning Classifiers Using Scikit-learn_
 - [Decision tree learning, Random Forest](src/decisiontree.ipynb) - Impurity measures, such as Gini, Entropy & Classification Error
 - [K-nearest neighbors classifier (KNN)](src/knearestneighbors.ipynb) - Visualizing the lazy learning algorithm
 
+_Clustering Analaysis_  
+- [Clustering Analysis Part 1](src/clusteirng-part1.ipynb) - K-means/++, Elbow method, Silhouette plots  
+- Clustering Analysis Part 2 - (Coming Soon &#x1F534;) - Hierarchical trees, Distance matrix, Dendrograms  
+
 _Building good datasets_
 - [Data Preprocessing 1](src/datapreprocessing-part1.ipynb) - Handling missing, nominal and ordinal values
 - [Data Preprocessing 2](src/datapreprocessing-part2.ipynb) - Dataset partitioning, feature scaling & selecting
