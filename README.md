@@ -65,7 +65,14 @@ _Model Complexity, Overfitting and Underfitting_
 - [Random Forests Preview](scikit/Chapter 2/TreesandForests.ipynb) - Decision tree classification, random forest classifier
 - [Learning Curves](scikit/Chapter 2/LearningCurves.ipynb) - Learning curves for analyzing model complexity
 - [Validation Curves](scikit/Chapter 2/ValidationCurves.ipynb) -  For Analyzing Model Parameters  
-- Efficient Parameter Search with EstimatorCV objects (coming soon)
+- [Hyperparameter CV Objects](scikit/Chapter 2/EstimatorCVObjects.ipynb) - Efficient Parameter Search with EstimatorCV Objects
+
+_Using Pipelines in Scikit Learn_ (Coming soon)
+- Motivation of using pipelines  
+- Defining a pipeline and basic usage  
+- Cross-validation with pipelines  
+- Parameter selection with pipelines  
+
 
 ---
 
