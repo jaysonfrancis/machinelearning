@@ -67,11 +67,11 @@ _Model Complexity, Overfitting and Underfitting_
 - [Validation Curves](scikit/Chapter 2/ValidationCurves.ipynb) -  For Analyzing Model Parameters  
 - [Hyperparameter CV Objects](scikit/Chapter 2/EstimatorCVObjects.ipynb) - Efficient Parameter Search with EstimatorCV Objects
 
-_Using Pipelines in Scikit Learn_ (Coming soon)
-- Motivation of using pipelines  
-- Defining a pipeline and basic usage  
-- Cross-validation with pipelines  
-- Parameter selection with pipelines  
+_Using Pipelines in Scikit Learn_ 
+- [Motivation of using pipelines](scikit/Chapter 3/PipelinesmMtivation.ipynb) - Why pipelines, how not to do grid-searches.    
+- [Defining a pipeline and basic usage](scikit/Chapter 3/PipelineBasics.ipynb) - Examples of using pipeslines and without pipelines.  
+- Cross-validation with pipelines (Coming Soon)
+- Parameter selection with pipelines 
 
 
 ---
