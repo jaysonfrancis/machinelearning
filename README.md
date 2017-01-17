@@ -69,8 +69,8 @@ _Model Complexity, Overfitting and Underfitting_
 
 _Using Pipelines in Scikit Learn_ 
 - [Motivation of using pipelines](scikit/Chapter 3/PipelinesmMtivation.ipynb) - Why pipelines, how not to do grid-searches.    
-- [Defining a pipeline and basic usage](scikit/Chapter 3/PipelineBasics.ipynb) - Examples of using pipeslines and without pipelines.  
-- Cross-validation with pipelines (Coming Soon)
+- [Defining a pipeline and basic usage](scikit/Chapter 3/PipelineBasics.ipynb) - Examples of using pipelines and without pipelines.  
+- [Cross-validation with pipelines](scikit/Chapter 3/Cross-Validation with Pipelines.ipynb) - Cross-validation with/without pipelines
 - Parameter selection with pipelines 
 
 
