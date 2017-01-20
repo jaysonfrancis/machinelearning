@@ -26,7 +26,7 @@ _Machine Learning Classifiers Using Scikit-learn_
 
 _Clustering Analaysis_  
 - [Clustering Analysis Part 1](src/clustering-part1.ipynb) - K-means/++, Elbow method, Silhouette plots  
-- Clustering Analysis Part 2 - (Coming Soon &#x1F534;) - Hierarchical trees, Distance matrix, Dendrograms  
+- [Clustering Analysis Part 2](src/clsutering-part2.ipynb) - Hierarchical trees, Distance matrix, Dendrograms  
 
 _Building good datasets_
 - [Data Preprocessing 1](src/datapreprocessing-part1.ipynb) - Handling missing, nominal and ordinal values
