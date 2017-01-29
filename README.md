@@ -14,6 +14,10 @@ _Training Machine Learning Algorithms for Classification_
 - [Perceptron](src/perceptron.ipynb) - Step by step implementation in Python 
 - [Adaline](src/adaline.ipynb) - Working with the basics of optimizations, stochastic/batch gradient descent
 
+_Training Artificial Neural Networks for Image Recognition_
+- [Multi-Layer Perceptron MLP - Part 1](src/MLP_part1.ipynb) - Implementation of MLP algorithm & analysis  
+
+
 _Training Machine Learning Algorithms for Regression_
 - [Overview Regression](src/regression.ipynb) - Examples on linear regression, polynomial regression, random forest regressor  
 
