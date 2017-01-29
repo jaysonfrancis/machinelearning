@@ -90,4 +90,4 @@ _Using Pipelines in Scikit Learn_
 ### Other Notes
 
 - [Machine Learning, Stanford University (Andrew Ng) - Using octave](https://github.com/jaysonfrancis/coursera/tree/master/machinelearning-stanford)  
-- [140 Machine Learning Formulas](docs/140 Machine LEarning Formulas.pdf) 
+- [140 Machine Learning Formulas](docs/140 Machine Learning Formulas.pdf) 
