@@ -59,7 +59,7 @@ _Introduction_
 - [The Manifold Interface](scikit/Chapter_1/Manifold.ipynb) - Unsupervised fitting with PCA, Isomap. Non-linear dimensionality reduction for use of visuals.
 - [Using Cross Validation](scikit/Chapter_1/CrossValidation.ipynb) - Splitting training/test and using cross validation to iterate scoring of classifiers
 - [Grid Searches](scikit/Chapter_1/GridSearches.ipynb) - Recommend hyper-parameters (i.e, C, kernel, gamma) to be passed when building an estimator. 
-- [Scikit Interface Summary](scikit/Chapter_1/API Overview.ipynb) - Quick recap on scikit-learns interface  
+- [Scikit Interface Summary](scikit/Chapter_1/API_Overview.ipynb) - Quick recap on scikit-learns interface  
 
 
 _Model Complexity, Overfitting and Underfitting_  
@@ -74,8 +74,8 @@ _Model Complexity, Overfitting and Underfitting_
 _Using Pipelines in Scikit Learn_ 
 - [Motivation of using pipelines](scikit/Chapter_3/PipelinesmMtivation.ipynb) - Why pipelines, how not to do grid-searches.    
 - [Defining a pipeline and basic usage](scikit/Chapter_3/PipelineBasics.ipynb) - Examples of using pipelines and without pipelines.  
-- [Cross-validation with pipelines](scikit/Chapter_3/Cross-Validation with Pipelines.ipynb) - Cross-validation with/without pipelines
-- [Parameter selection with pipelines](scikit/Chapter_3/Parameter Selection with Pipelines.ipynb) -  Feature selection, grid-search using pipelines
+- [Cross-validation with pipelines](scikit/Chapter_3/Cross_Validation_with_Pipelines.ipynb) - Cross-validation with/without pipelines
+- [Parameter selection with pipelines](scikit/Chapter_3/Parameter_Selection_with_Pipelines.ipynb) -  Feature selection, grid-search using pipelines
 
 
 ---
