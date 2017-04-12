@@ -52,30 +52,30 @@ _Model Evaluation and Hyper-parameter Tuning_
 ### Additional Machine Learning with Scikit-Learn
 
 _Introduction_
-- [The Classifier Interface](scikit/Chapter 1/Classification.ipynb) - LinearSVC, RandomForest, Classifier Comparison 
-- [The Regressor Interface](scikit/Chapter 1/Regression.ipynb) - Ridge, RandomForestRegressor
-- [The Transformer Interface](scikit/Chapter 1/Transformers.ipynb) - StandardScaler, PCA, Dimensionality Reduction
-- [The Cluster Interface](scikit/Chapter 1/Clustering.ipynb) - KMeans, SpectralClustering, Overview of visuals
-- [The Manifold Interface](scikit/Chapter 1/Manifold.ipynb) - Unsupervised fitting with PCA, Isomap. Non-linear dimensionality reduction for use of visuals.
-- [Using Cross Validation](scikit/Chapter 1/CrossValidation.ipynb) - Splitting training/test and using cross validation to iterate scoring of classifiers
-- [Grid Searches](scikit/Chapter 1/GridSearches.ipynb) - Recommend hyper-parameters (i.e, C, kernel, gamma) to be passed when building an estimator. 
-- [Scikit Interface Summary](scikit/Chapter 1/API Overview.ipynb) - Quick recap on scikit-learns interface  
+- [The Classifier Interface](scikit/Chapter_1/Classification.ipynb) - LinearSVC, RandomForest, Classifier Comparison 
+- [The Regressor Interface](scikit/Chapter_1/Regression.ipynb) - Ridge, RandomForestRegressor
+- [The Transformer Interface](scikit/Chapter_1/Transformers.ipynb) - StandardScaler, PCA, Dimensionality Reduction
+- [The Cluster Interface](scikit/Chapter_1/Clustering.ipynb) - KMeans, SpectralClustering, Overview of visuals
+- [The Manifold Interface](scikit/Chapter_1/Manifold.ipynb) - Unsupervised fitting with PCA, Isomap. Non-linear dimensionality reduction for use of visuals.
+- [Using Cross Validation](scikit/Chapter_1/CrossValidation.ipynb) - Splitting training/test and using cross validation to iterate scoring of classifiers
+- [Grid Searches](scikit/Chapter_1/GridSearches.ipynb) - Recommend hyper-parameters (i.e, C, kernel, gamma) to be passed when building an estimator. 
+- [Scikit Interface Summary](scikit/Chapter_1/API Overview.ipynb) - Quick recap on scikit-learns interface  
 
 
 _Model Complexity, Overfitting and Underfitting_  
-- [Model Complexity](scikit/Chapter 2/ModelComplexity.ipynb) - Overfitting, Underfitting visuals
-- [Linear models with Scikit](scikit/Chapter 2/Linearmodels.ipynb) - Linear regression, linear classification, regularization  
-- [Kernel SVMs with Scikit](scikit/Chapter 2/SupportVectorMachines.ipynb) - Support vector machines, kernel SVMs, hyperparameters
-- [Random Forests Preview](scikit/Chapter 2/TreesandForests.ipynb) - Decision tree classification, random forest classifier
-- [Learning Curves](scikit/Chapter 2/LearningCurves.ipynb) - Learning curves for analyzing model complexity
-- [Validation Curves](scikit/Chapter 2/ValidationCurves.ipynb) -  For Analyzing Model Parameters  
-- [Hyperparameter CV Objects](scikit/Chapter 2/EstimatorCVObjects.ipynb) - Efficient Parameter Search with EstimatorCV Objects
+- [Model Complexity](scikit/Chapter_2/ModelComplexity.ipynb) - Overfitting, Underfitting visuals
+- [Linear models with Scikit](scikit/Chapter_2/Linearmodels.ipynb) - Linear regression, linear classification, regularization  
+- [Kernel SVMs with Scikit](scikit/Chapter_2/SupportVectorMachines.ipynb) - Support vector machines, kernel SVMs, hyperparameters
+- [Random Forests Preview](scikit/Chapter_2/TreesandForests.ipynb) - Decision tree classification, random forest classifier
+- [Learning Curves](scikit/Chapter_2/LearningCurves.ipynb) - Learning curves for analyzing model complexity
+- [Validation Curves](scikit/Chapter_2/ValidationCurves.ipynb) -  For Analyzing Model Parameters  
+- [Hyperparameter CV Objects](scikit/Chapter_2/EstimatorCVObjects.ipynb) - Efficient Parameter Search with EstimatorCV Objects
 
 _Using Pipelines in Scikit Learn_ 
-- [Motivation of using pipelines](scikit/Chapter 3/PipelinesmMtivation.ipynb) - Why pipelines, how not to do grid-searches.    
-- [Defining a pipeline and basic usage](scikit/Chapter 3/PipelineBasics.ipynb) - Examples of using pipelines and without pipelines.  
-- [Cross-validation with pipelines](scikit/Chapter 3/Cross-Validation with Pipelines.ipynb) - Cross-validation with/without pipelines
-- [Parameter selection with pipelines](scikit/Chapter 3/Parameter Selection with Pipelines.ipynb) -  Feature selection, grid-search using pipelines
+- [Motivation of using pipelines](scikit/Chapter_3/PipelinesmMtivation.ipynb) - Why pipelines, how not to do grid-searches.    
+- [Defining a pipeline and basic usage](scikit/Chapter_3/PipelineBasics.ipynb) - Examples of using pipelines and without pipelines.  
+- [Cross-validation with pipelines](scikit/Chapter_3/Cross-Validation with Pipelines.ipynb) - Cross-validation with/without pipelines
+- [Parameter selection with pipelines](scikit/Chapter_3/Parameter Selection with Pipelines.ipynb) -  Feature selection, grid-search using pipelines
 
 
 ---
