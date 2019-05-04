@@ -2,7 +2,7 @@
 
 This repository contains python examples and notes around the development and implementations of various machine learning algorithms & data preparation techniques. It is a compilation of various book notes, bootcamps & research put together for myself - and others, to make references to quick implementations easily. Please feel free to contribute to the repository! 
 
--- Jayson
+-- Jayson!
 
 ![](img/machinelearning201.png)
 
@@ -91,3 +91,6 @@ _Using Pipelines in Scikit Learn_
 
 - [Machine Learning, Stanford University (Andrew Ng) - Using octave](https://github.com/jaysonfrancis/coursera/tree/master/machinelearning-stanford)  
 - [140 Machine Learning Formulas](docs/140 Machine Learning Formulas.pdf) 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODU3MDkxMjU2XX0=
+-->
